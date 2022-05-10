@@ -1,4 +1,4 @@
-# [프로그래머스 Level 1] - 문자열을 정수로 바꾸기
+# [프로그래머스 Level 1] - 신고 결과 받기
 # 블로그 주소 : https://tteum.tistory.com/183
 
 def solution(id_list, report, k):
