@@ -1,5 +1,5 @@
 # [백준] 1152번 - 단어의 개수
-# 블로그 주소 : https://tteum.tistory.com/222
+# 블로그 주소 : https://tteum.tistory.com/223
 
 import sys
 
