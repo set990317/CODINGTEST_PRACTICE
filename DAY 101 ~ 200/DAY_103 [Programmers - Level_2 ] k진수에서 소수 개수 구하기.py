@@ -1,3 +1,6 @@
+# [프로그래머스 Level 2] - k진수에서 소수 개수 구하기
+# 블로그 주소 : https://tteum.tistory.com/238
+
 def sosu(number):
     for j in range(2,int(number**0.5)+1):
         if number % j == 0:
