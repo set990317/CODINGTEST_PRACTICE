@@ -1,5 +1,5 @@
 # [코드업] 6094 - 이상한 출석 번호 부르기3
-# 블로그 주소 : https://tteum.tistory.com/259
+# 블로그 주소 : https://tteum.tistory.com/262
 
 import sys
 
