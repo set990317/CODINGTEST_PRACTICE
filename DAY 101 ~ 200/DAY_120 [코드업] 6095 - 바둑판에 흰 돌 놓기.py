@@ -3,7 +3,7 @@
 
 import sys
 
-d = [[0 for j in range(20)] for i in range(20)]
+d = [[0 for j in range(19)] for i in range(19)]
 n = int(sys.stdin.readline())
 input = []
 for _ in range(n):
