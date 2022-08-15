@@ -1,4 +1,4 @@
-# [코드업] 1193번 - 분수찾기
+# [백준] 1193번 - 분수찾기
 # 블로그 주소 : https://tteum.tistory.com/284
 
 X = int(input())

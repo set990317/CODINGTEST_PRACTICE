@@ -1,4 +1,4 @@
-# [코드업] 11047번 - 동전 0
+# [백준] 11047번 - 동전 0
 # 블로그 주소 : https://tteum.tistory.com/267
 
 import sys

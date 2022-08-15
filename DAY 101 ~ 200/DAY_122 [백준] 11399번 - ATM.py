@@ -1,4 +1,4 @@
-# [코드업] 11399번 - ATM
+# [백준] 11399번 - ATM
 # 블로그 주소 : https://tteum.tistory.com/265
 
 import sys

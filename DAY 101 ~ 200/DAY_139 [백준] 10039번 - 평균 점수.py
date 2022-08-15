@@ -1,4 +1,4 @@
-# [코드업] 10039번 - 평균 점수
+# [백준] 10039번 - 평균 점수
 # 블로그 주소 : https://tteum.tistory.com/288
 
 import sys

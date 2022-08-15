@@ -1,4 +1,4 @@
-# [코드업] 10156번 - 과자
+# [백준] 10156번 - 과자
 # 블로그 주소 : https://tteum.tistory.com/292
 
 import sys

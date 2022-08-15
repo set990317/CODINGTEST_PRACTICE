@@ -1,4 +1,4 @@
-# [코드업] 10250번 - ACM 호텔
+# [백준] 10250번 - ACM 호텔
 # 블로그 주소 : https://tteum.tistory.com/281
 
 T =int(input())

@@ -1,4 +1,4 @@
-# [코드업] 7568번 - 덩치
+# [백준] 7568번 - 덩치
 # 블로그 주소 : https://tteum.tistory.com/291
 
 import sys

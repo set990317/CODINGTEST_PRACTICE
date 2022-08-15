@@ -1,4 +1,4 @@
-# [코드업] 10872번 - 팩토리얼
+# [백준] 10872번 - 팩토리얼
 # 블로그 주소 : https://tteum.tistory.com/270
 
 def factorial(num):

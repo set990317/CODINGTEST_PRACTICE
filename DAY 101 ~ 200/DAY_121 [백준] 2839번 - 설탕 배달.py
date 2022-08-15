@@ -1,4 +1,4 @@
-# [코드업] 2839번 - 설탕 배달
+# [백준] 2839번 - 설탕 배달
 # 블로그 주소 : https://tteum.tistory.com/264
 
 n = int(input())

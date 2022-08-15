@@ -1,4 +1,4 @@
-# [코드업] 14720번 - 우유 축제
+# [백준] 14720번 - 우유 축제
 # 블로그 주소 : https://tteum.tistory.com/282
 
 import sys

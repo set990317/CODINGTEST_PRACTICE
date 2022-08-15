@@ -1,4 +1,4 @@
-# [코드업] 2798번 - 블랙잭
+# [백준] 2798번 - 블랙잭
 # 블로그 주소 : https://tteum.tistory.com/289
 
 import sys

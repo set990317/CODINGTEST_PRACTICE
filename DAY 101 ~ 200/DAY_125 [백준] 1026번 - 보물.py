@@ -1,4 +1,4 @@
-# [코드업] 1026번 - 보물
+# [백준] 1026번 - 보물
 # 블로그 주소 : https://tteum.tistory.com/268
 
 import sys
