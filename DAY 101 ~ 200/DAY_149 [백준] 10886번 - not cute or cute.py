@@ -1,4 +1,4 @@
-s# [백준] 10886번 - 0 = not cute / 1 = cute
+# [백준] 10886번 - 0 = not cute / 1 = cute
 # 블로그 주소 : https://tteum.tistory.com/302
 
 n = int(input())
