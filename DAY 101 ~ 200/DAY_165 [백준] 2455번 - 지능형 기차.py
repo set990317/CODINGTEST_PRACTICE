@@ -1,5 +1,5 @@
 # [백준] 2455번 - 지능형 기차
-# 블로그 주소 : https://tteum.tistory.com/319
+# 블로그 주소 : https://tteum.tistory.com/322
 
 import sys
 
