@@ -1,5 +1,5 @@
 # [백준] 2953번 - 나는 요리사다
-# 블로그 주소 : https://tteum.tistory.com/323
+# 블로그 주소 : https://tteum.tistory.com/324
 
 import sys
 
