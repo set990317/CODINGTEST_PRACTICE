@@ -1,4 +1,4 @@
-# [프로그래머스 Level 2] - 영어 끝말잇기
+# [프로그래머스 Level 2] - 괄호 회전하기
 # 블로그 주소 : https://tteum.tistory.com/368
 
 def solution(s):
