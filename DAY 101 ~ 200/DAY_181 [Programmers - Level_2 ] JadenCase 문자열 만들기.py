@@ -3,18 +3,15 @@
 
 def solution(s):
     answer = ''
-    s = s.lower()
-
-    s_list = []
-
-    s_list = s.split(" ")
-    for i in range(len(s_list)):
-        if len(s_list[i]) != 0 :
-            if s_list[i][0].isalpha() == True :
-                s_list[i] = s_list[i].capitalize()
+    s = s.upper()
+    s = list(s)
     
-    print(s_list)
-
-
+    answer += s[0]
     
+    for i in range(1,len(s)):
+        if s[i-1].isalpha() or s[i-1].isdigit():        
+            answer += s[i].lower()
+        else :
+            answer += s[i]
+            
     return answer

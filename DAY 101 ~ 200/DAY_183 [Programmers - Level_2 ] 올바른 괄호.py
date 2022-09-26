@@ -1,5 +1,5 @@
 # [프로그래머스 Level 2] - 올바른 괄호
-# 블로그 주소 : https://tteum.tistory.com/359
+# 블로그 주소 : https://tteum.tistory.com/366
 
 def solution(s):
     answer = True
